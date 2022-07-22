@@ -1,0 +1,40 @@
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  color: white;
+}
+
+.icon {
+  transition: 0.4s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon:hover {
+  font-size: 22px;
+}
+.reset {
+  width: 100px;
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 80px;
+  transition: 0.5s;
+  font-weight: bold;
+}
+.reset:hover {
+  background-color: transparent;
+  color: black;
+}
+.login {
+  position: absolute;
+  right: 0;
+  margin-right: 20px;
+}

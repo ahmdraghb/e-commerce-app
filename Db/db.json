@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Combo Burger",
+      "price": 50,
+      "number": 0,
+      "isInCart": false,
+      "cateogry": 1
+    },
+    {
+      "id": 2,
+      "name": "Med Burger",
+      "price": 35,
+      "number": 0,
+      "isInCart": false,
+      "cateogry": 1
+    },
+    {
+      "id": 3,
+      "name": "Small Burger",
+      "price": 20,
+      "number": 0,
+      "isInCart": false,
+      "cateogry": 1
+    },
+    {
+      "id": 4,
+      "name": "Combo Fries",
+      "price": 20,
+      "number": 0,
+      "isInCart": false,
+      "cateogry": 2
+    },
+    {
+      "id": 5,
+      "name": "Med Fries",
+      "price": 15,
+      "number": 0,
+      "isInCart": false,
+      "cateogry": 2
+    },
+    {
+      "id": 6,
+      "name": "Small Fries",
+      "price": 10,
+      "number": 0,
+      "isInCart": false,
+      "cateogry": 2
+    },
+    {
+      "id": 7,
+      "name": "Big cola",
+      "price": 15,
+      "number": 0,
+      "isInCart": false,
+      "cateogry": 3
+    },
+    {
+      "id": 8,
+      "name": "Med cola",
+      "price": 10,
+      "number": 0,
+      "isInCart": false,
+      "cateogry": 3
+    },
+    {
+      "id": 9,
+      "name": "Small cola",
+      "price": 5,
+      "number": 0,
+      "isInCart": false,
+      "cateogry": 3
+    },
+    {
+      "name": "crep",
+      "price": "24",
+      "id": 10
+    },
+    {
+      "name": "mich",
+      "price": "70",
+      "id": 11
+    },
+    {
+      "name": "aloo",
+      "price": "20",
+      "id": 12
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "All"
+    },
+    {
+      "id": 1,
+      "name": "Burger"
+    },
+    {
+      "id": 2,
+      "name": "Fries"
+    },
+    {
+      "id": 3,
+      "name": "Cola"
+    }
+  ]
+}
